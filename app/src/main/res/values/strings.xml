@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">SplashLoginMotionLayout</string>
-    <string name="register_button">No tienes cuenta?<b>Registrate Aquí</b></string>
+    <string name="register_button">No tienes cuenta?<b> Registrate Aquí</b></string>
 </resources>
